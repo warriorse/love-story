@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 只是一只长颈鹿
 
 You can use the [editor on GitHub](https://github.com/warriorse/love-story/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
